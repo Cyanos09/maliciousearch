@@ -1,0 +1,15 @@
+{
+	"name": "maliciousearch",
+	"manifest_version": 3,
+	"version": "1.0.0",
+	"content_scripts":[
+		{
+			"matches":["http://*/","https://*/"],
+			"js":["main.js"]
+		}
+	],
+	"action": {
+		"default_popup": "popup.html"
+	},
+	"permissions":["tabs"]
+}
