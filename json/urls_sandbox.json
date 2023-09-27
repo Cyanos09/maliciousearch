@@ -2,6 +2,6 @@
     "VirusTotal" : "https://www.virustotal.com/gui/file/",
     "JoeSandbox" : "https://www.joesandbox.com/search?q=",
     "HybridAnalysis" : "https://www.hybrid-analysis.com/sample/",
-    "MalwareBazaar" : "https://bazaar.abuse.ch/sample/",
-    "YOMI" : "https://yomi.yoroi.company/submissions/"
+    "MalwareBazaar" : "https://bazaar.abuse.ch/browse.php?search=sha256%3A",
+    "YOMI" : "https://yomi.yoroi.company/report/"
 }
