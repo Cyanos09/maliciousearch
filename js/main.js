@@ -7,7 +7,6 @@ function main(){
 		var changeMalwareDB = document.getElementById('change_mal_db');
 
 		function changeCheckbox(jsonFile){
-			//$("#url_checkbox c").remove();
 			$("#url_checkbox").empty();
 			$.getJSON(jsonFile, function(data){
 				console.log(data);
