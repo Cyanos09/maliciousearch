@@ -1,0 +1,7 @@
+{
+    "VirusTotal" : "https://www.virustotal.com/gui/file/",
+    "JoeSandbox" : "https://www.joesandbox.com/search?q=",
+    "HybridAnalysis" : "https://www.hybrid-analysis.com/sample/",
+    "MalwareBazaar" : "https://bazaar.abuse.ch/sample/",
+    "YOMI" : "https://yomi.yoroi.company/submissions/"
+}
