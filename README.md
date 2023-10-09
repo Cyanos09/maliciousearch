@@ -1,7 +1,7 @@
 # maliciousearch
 This is a chrome extension that searches for hash values of suspicious files, suspicious IPs, and hash values of sample files you want to obtain.
 
-This chrome extension retrieves search results from the following sites
+This chrome extension displays search results from the following sites as a new tab.
 
 ## Search Engine
 ### Sandbox
