@@ -11,9 +11,9 @@ JoeSandbox : https://www.joesandbox.com/
 
 HybridAnalysis : https://www.hybrid-analysis.com/
 
-yoroi : https://yomi.yoroi.company/
+MalwareBazaar : https://bazaar.abuse.ch/
 
-MalShare : https://malshare.com/
+yoroi : https://yomi.yoroi.company/
 
 ### IP
 Shodan : https://www.shodan.io/
